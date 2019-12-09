@@ -1,2 +1,0 @@
-# ReactAuthentication
-Created with CodeSandbox
